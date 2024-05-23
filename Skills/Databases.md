@@ -1,0 +1,94 @@
+## Databases
+
+- Theory and concepts
+  - Data types 🙋	explained
+  - Performance tuning
+  - Migrations 🙋	explained
+  - Schema versioning
+  - Backup and recovery 🙋	explained
+  - Database scalability
+  - Relational databases 🙋	explained
+  - Key-value store 🙋	explained
+  - Tuple store
+  - Graph databases
+  - Object databases 🙋	explained
+  - Column databases 🙋	explained
+  - Navigational databases
+  - Hierarchical databases
+  - In-memory databases 🙋	explained
+  - Inverted index
+  - Data control language (DCL) 🙋	explained
+  - Data definition language (DDL) 🙋	explained
+  - Data manipulation language (DML) 🙋	explained
+  - Data query language (DQL) 🙋	explained
+- Relational
+  - Entity-Relationship Diagram 🙋	explained
+  - Normal forms 
+  - Indexing 🙋	explained
+  - Primary keys 🙋	explained
+  - Foreign keys 🙋	explained
+  - Transactions
+  - Views 🙋	explained
+  - Subqueries 🙋	explained
+  - Stored procedures
+  - SQL functions 🙋	explained
+  - Materialized views
+  - Replications
+  - Virtualization
+- SQL
+  - `SELECT` 🔬	researched
+  - `INSERT` 🔬	researched
+  - `UPDATE` 🔬	researched
+  - `DELETE` 🔬	researched
+  - `LIMIT` 🔬	researched
+  - `OFFSET` 
+  - `ORDER BY` 🔬	researched
+  - `GROUP BY` 🔬	researched
+  - `HAVING` 🔬	researched
+  - `EXISTS` 🔬	researched
+  - `JOIN` 🔬	researched
+  - `INNER JOIN` 🔬	researched
+  - `LEFT JOIN` 🔬	researched
+  - `RIGHT JOIN` 🔬	researched
+  - `UNION` 🔬	researched
+  - `DISTINCT` 🔬	researched
+  - `WHERE` 🔬	researched
+  - `LIKE` 🔬	researched
+  - `IN` 🔬	researched 
+  - `BETWEEN` 🔬	researched
+  - `CREATE TABLE` 🙋	explained
+  - `ALTER TABLE` 🙋	explained
+  - `DROP TABLE` 🙋	explained
+  - `PRIMARY KEY` 🙋	explained
+  - `FOREIGN KEY` 🙋	explained
+  - `CHECK`
+  - `DEFAULT`
+  - `INDEX` 🔬	researched 
+  - `UNIQUE` 
+  - `GRANT`
+  - `REVOKE`
+  - `DENY`
+  - `EXPLAIN`
+- Engines
+  - PostgreSQL 🙋	explained
+  - Oracle
+  - MySQL 🙋	explained
+  - MariaDB
+  - MS SQL Server 🙋	explained
+  - Redis
+  - Rabbit
+  - MongoDB
+  - Memcached
+  - Riak
+  - DB2
+  - SQLite 🙋	explained
+  - DynamoDB
+  - Firebase 🙋	explained
+- Data engineering
+  - Data warehousing
+  - Business intelligence
+  - Big data
+  - Data analysis
+  - AI tools
+  - Cloud databases 🙋	explained
+  - Data Visualization
